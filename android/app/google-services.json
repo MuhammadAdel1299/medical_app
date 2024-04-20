@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "151507514024",
+    "project_id": "medical-app-a4bb3",
+    "storage_bucket": "medical-app-a4bb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151507514024:android:0412361a69495dec73489d",
+        "android_client_info": {
+          "package_name": "com.example.midical_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6ZyQGsaUgtjPIHlFZlLn1-mhSQaRaqDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
